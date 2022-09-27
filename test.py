@@ -1,3 +1,4 @@
-print("hello world!")
-print("my name is James")
-print("this is a tutorial for Erika")
+print("hello Santa Barbara!")
+print("my name is Bob Ross.")
+print("Accept jesus as your lord and savior")
+
